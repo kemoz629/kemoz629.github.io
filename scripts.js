@@ -1,3 +1,5 @@
+alert('¡Hola! Este no es mi portfolio real, es solo una demostración.');
+
 // Funcionalidad del menú móvil
 document.addEventListener('DOMContentLoaded', function () {
     const navToggle = document.getElementById('nav-toggle');
